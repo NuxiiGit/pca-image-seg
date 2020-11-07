@@ -1,0 +1,1 @@
+Image segmentation data set courtesy of Carla Brodley (University of Massachusetts, November 1st 1990), and modified to be compatible with the R programming language: http://archive.ics.uci.edu/ml/datasets/image+segmentation
