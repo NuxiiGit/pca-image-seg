@@ -1,0 +1,2 @@
+*.r     text eol=crlf
+*.csv   linguist-language=csv
